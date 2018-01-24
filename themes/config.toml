@@ -1,4 +1,4 @@
-baseurl = "https://ankitpandey14ap.github.io/"
+baseurl = "http://example.com/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -17,12 +17,12 @@ paginate = 5
 	
 	analytics = "code-here"
 
-	email = "ankit.pandey14ap@gmail.com"
+	email = "alexurquhart@gmail.com"
 
-	profilepic = "img/image.JPG"
+	profilepic = "img/profPic.JPG"
 	
-	title = "ANKIT PANDEY"
-	subtitle = "Hello Folks!"
+	title = "MY NAME"
+	subtitle = "MY HUGO BLOG"
 
 	# Social buttons for sidebar
 	# Each of these are optional
